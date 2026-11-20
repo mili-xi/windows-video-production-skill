@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "title": "把手作过程拍清楚",
+  "approved": false,
+  "targetSeconds": 10,
+  "sources": [],
+  "segments": [
+    {
+      "display": "手作视频\n怎么拍清楚",
+      "spoken": "手作视频怎么拍清楚？",
+      "emphasis": ["手作视频"],
+      "motion": "push"
+    },
+    {
+      "display": "先摆好材料\n给一个近景",
+      "spoken": "先摆好材料，给一个近景。",
+      "emphasis": [],
+      "motion": "push"
+    },
+    {
+      "display": "再拍关键一步\n别把手挡住",
+      "spoken": "再拍关键一步，别把手挡住。",
+      "emphasis": [],
+      "motion": "push"
+    },
+    {
+      "display": "最后留一秒\n给成品一个特写",
+      "spoken": "最后留一秒，给成品一个特写。",
+      "emphasis": ["特写"],
+      "motion": "push"
+    }
+  ]
+}
